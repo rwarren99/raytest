@@ -7,6 +7,7 @@ CREATE TABLE [dbo].[Table_1]
 [col5] [nchar] (10) COLLATE Latin1_General_CI_AS NULL,
 [col6] [nchar] (100) COLLATE Latin1_General_CI_AS NULL,
 [col7] [nchar] (10) COLLATE Latin1_General_CI_AS NULL,
+[col8] [nchar] (10) COLLATE Latin1_General_CI_AS NULL,
 [col9] [nchar] (100) COLLATE Latin1_General_CI_AS NULL,
 [col10] [nchar] (10) COLLATE Latin1_General_CI_AS NULL
 ) ON [PRIMARY]
