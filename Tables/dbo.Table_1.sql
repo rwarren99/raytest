@@ -12,7 +12,8 @@ CREATE TABLE [dbo].[Table_1]
 [col10] [nchar] (10) COLLATE Latin1_General_CI_AS NULL,
 [cola] [nchar] (10) COLLATE Latin1_General_CI_AS NULL,
 [coly] [nchar] (10) COLLATE Latin1_General_CI_AS NULL,
-[colc] [nchar] (10) COLLATE Latin1_General_CI_AS NULL
+[colx] [nchar] (10) COLLATE Latin1_General_CI_AS NULL,
+[colc] [int] NULL
 ) ON [PRIMARY]
 GO
 ALTER TABLE [dbo].[Table_1] ADD CONSTRAINT [PK_Table_1] PRIMARY KEY CLUSTERED  ([col1]) ON [PRIMARY]
