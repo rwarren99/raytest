@@ -11,6 +11,7 @@ CREATE TABLE [dbo].[Table_1]
 [col9] [nchar] (100) COLLATE Latin1_General_CI_AS NULL,
 [col10] [nchar] (10) COLLATE Latin1_General_CI_AS NULL,
 [cola] [nchar] (10) COLLATE Latin1_General_CI_AS NULL,
+[coly] [nchar] (10) COLLATE Latin1_General_CI_AS NULL,
 [colx] [nchar] (10) COLLATE Latin1_General_CI_AS NULL,
 [colc] [int] NULL
 ) ON [PRIMARY]
